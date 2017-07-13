@@ -1,2 +1,2 @@
 # Net.Chdk.Meta.Providers.CameraTree.Json
-CHIMP camera tree metadata JSON provider
+CHIMP JSON camera tree metadata provider
